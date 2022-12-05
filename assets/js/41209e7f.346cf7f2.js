@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbubble_convention=self.webpackChunkbubble_convention||[]).push([[4173],{411:e=>{e.exports=JSON.parse('{"permalink":"/bubble-io-guide/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

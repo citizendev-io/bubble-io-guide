@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbubble_convention=self.webpackChunkbubble_convention||[]).push([[7056],{6790:e=>{e.exports=JSON.parse('{"permalink":"/bubble-io-guide/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

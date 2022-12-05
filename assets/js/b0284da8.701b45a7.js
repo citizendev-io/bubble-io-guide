@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbubble_convention=self.webpackChunkbubble_convention||[]).push([[7730],{7691:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/bubble-io-guide/blog/tags/hello","allTagsPath":"/bubble-io-guide/blog/tags","count":2}')}}]);
